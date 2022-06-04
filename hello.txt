@@ -11,4 +11,5 @@ hello!!
 hello!!
 hello!!
 hello!!  master test02
-hello!! 
+hello!! hot test02
+>>>>>>> hot-fix1
